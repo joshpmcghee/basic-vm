@@ -1,7 +1,7 @@
 basic-vm
 ========
 
-An extremely rudimental vm built in C to provide me with a method of exploring low-level systems. Nothing other than integer arithmetic is supported. I will hopefully get round to floating point, eventually.
+An extremely simple vm built in C to provide me with a method of exploring low-level systems. Nothing other than integer arithmetic is supported. I will hopefully get round to floating point, eventually.
 
 Instruction set is currently as follows:
 
